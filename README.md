@@ -1,6 +1,3 @@
-# app-dev
-My first repository
-
 # My Favorite Japan Series: Alice in Borderland
 
 **Alice in Borderland** is my favorite Japanese series. It’s a thrilling *sci-fi survival drama* that keeps you on edge every episode. I love how the game so intense that you couldn't predict what would happened next. 
